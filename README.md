@@ -1,2 +1,2 @@
-# c-tutorial
+Tutorial
 c++ tutorial 
